@@ -139,7 +139,7 @@ blockquote {
   background-size: cover;
   margin-bottom: auto;
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 80px;
 }
 
 .nav {
@@ -712,6 +712,7 @@ blockquote {
 .home-page-heading {
   letter-spacing: 0;
   text-transform: none;
+  margin-top: 10px;
   font-size: 55px;
   line-height: 60px;
 }
@@ -1169,10 +1170,43 @@ blockquote {
 }
 
 @media screen and (min-width: 1440px) {
+  .nav-link, .nav-link.w--current, .nav-link.contact {
+    font-size: 15px;
+  }
+
+  .nav-menu {
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+  .home-page-heading {
+    font-weight: 400;
+  }
+
+  .skills {
+    margin-bottom: 25px;
+  }
+
+  .dropdown-list {
+    font-size: 15px;
+  }
+
   .team-member-image {
     width: 270px;
     height: 270px;
     max-height: none;
+  }
+
+  .heading-6, .heading-7 {
+    font-weight: 400;
+  }
+
+  .section-2 {
+    margin-bottom: 40px;
+  }
+
+  .image-2 {
+    margin-bottom: -26px;
   }
 }
 
@@ -1508,6 +1542,16 @@ blockquote {
   .home-page-heading {
     font-size: 45px;
     line-height: 50px;
+  }
+
+  .quick-stack {
+    text-align: center;
+    object-fit: fill;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    position: static;
   }
 
   .container {

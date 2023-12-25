@@ -1169,6 +1169,15 @@ blockquote {
   font-family: Lato, sans-serif;
 }
 
+.bold-text-7, .bold-text-8, .bold-text-9, .bold-text-10 {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.bold-text-11, .bold-text-12, .bold-text-13, .bold-text-14, .bold-text-15, .bold-text-16, .bold-text-17, .bold-text-18 {
+  font-size: 19px;
+}
+
 @media screen and (min-width: 1440px) {
   .nav-link, .nav-link.w--current, .nav-link.contact {
     font-size: 15px;

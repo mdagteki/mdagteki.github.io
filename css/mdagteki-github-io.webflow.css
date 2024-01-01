@@ -847,6 +847,7 @@ blockquote {
 }
 
 .rich-text-block {
+  text-align: justify;
   margin-right: 0;
   padding-left: 50px;
   padding-right: 51px;
@@ -1176,6 +1177,14 @@ blockquote {
 
 .bold-text-11, .bold-text-12, .bold-text-13, .bold-text-14, .bold-text-15, .bold-text-16, .bold-text-17, .bold-text-18 {
   font-size: 19px;
+}
+
+.paragraph {
+  margin-bottom: 40px;
+}
+
+.paragraph-2 {
+  text-align: justify;
 }
 
 @media screen and (min-width: 1440px) {

@@ -1019,9 +1019,9 @@ blockquote {
   margin-bottom: auto;
   padding-left: 0;
   font-family: Lato, sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 25px;
 }
 
@@ -1029,8 +1029,9 @@ blockquote {
   color: rgba(0, 0, 0, .96);
   margin-top: 34px;
   font-family: Montserrat, sans-serif;
-  font-size: 40px;
-  font-weight: 500;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 42px;
 }
 
 .heading-5 {
@@ -1040,7 +1041,8 @@ blockquote {
   object-fit: fill;
   margin-top: auto;
   margin-bottom: auto;
-  font-family: Montserrat, sans-serif;
+  font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
+  font-size: 45px;
   font-weight: 600;
 }
 

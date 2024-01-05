@@ -1029,9 +1029,9 @@ blockquote {
   color: rgba(0, 0, 0, .96);
   margin-top: 34px;
   font-family: Montserrat, sans-serif;
-  font-size: 22px;
-  font-weight: 600;
-  line-height: 42px;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 50px;
 }
 
 .heading-5 {
